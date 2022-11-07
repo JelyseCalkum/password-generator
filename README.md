@@ -17,13 +17,13 @@ To check out the project files, visit my GitHub repository here: https://github.
 PROJECT FEATURES:
 
 A generate button:
-This will send the user a series of prompts and confirms
-After user data is collected, a random password will be generated using Javascript
+This will send the user a series of prompts.
+After user data is collected, a random password will be generated using Javascript.
 ![Screenshot 1](https://user-images.githubusercontent.com/115381607/200198750-ea33f52e-b9b5-471f-b6f4-bfa20c14e907.png)
 
 
-A Textarea
-This textarea will display the users password once it is generated
+A Textarea:
+This textarea will display the users password once it is generated.
 ![Screenshot 2](https://user-images.githubusercontent.com/115381607/200198795-03a25928-a201-463b-a975-b4040a09b0ff.png)
 
 
@@ -46,5 +46,4 @@ The string value then populates into the text area for the user using a UserInpu
 
 ACKNOWLEDGEMENTS:
 
-Thank you to UofO's bootcamp for providing starter code as well as 
-user story and acceptance criteria.
+Thank you to UofO's bootcamp for providing starter code as well as the acceptance criteria.
