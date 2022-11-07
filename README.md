@@ -9,7 +9,8 @@ change to an HTML document. A CSS document was also used to create this project.
 
 DEPLOYMENT AND USAGE:
 This project has been deployed to GitHub Pages. To see this project in action, you can follow this deployment link: https://jelysecalkum.github.io/passwordgenerator/ 
-Or, you can see the project files by visiting my GitHub repository here: https://github.com/JelyseCalkum/passwordgenerator 
+
+To check out the project files, visit my GitHub repository here: https://github.com/JelyseCalkum/passwordgenerator 
 
 
 
